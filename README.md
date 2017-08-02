@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 FooCoin (FOO)
 ===========
 
@@ -5,3 +6,6 @@ FooCoin (FOO)
 
 
 Scrypt Hashcash PoW Template
+=======
+# sen
+>>>>>>> 5e47c13e110ce9cf226083de3bba31bf9348221b
